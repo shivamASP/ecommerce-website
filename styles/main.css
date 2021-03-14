@@ -1,0 +1,81 @@
+/* .bi-cart-fill {
+
+    position: absolute;
+    top: 2rem;
+    right: 2rem;
+} */
+.cart:hover {
+    color:rgb(78, 78, 78);
+}
+.carousel {
+    margin-bottom: 4rem;
+}
+
+.dropdown {
+    z-index: 1000;
+}
+.dropdown-menu {
+    z-index: 1000;
+}
+
+.featurette .col-md-7 {
+    text-align: center;
+}
+
+.featurette .btn-lg {
+    padding: .5rem 1.5rem;
+    /* margin: auto 50%; */
+}
+
+.featurette-divider {
+    margin: 5rem 0;
+}
+
+.marketing h2 {
+    font-weight: 400;
+}
+
+.featurette-heading {
+	font-size: 50px;
+}
+
+.featurette-heading {
+    margin-top: 7rem;
+}
+
+.card {
+    border: none;
+}
+
+.card p:first-of-type {
+    font-weight: bold;
+}
+
+.col-10 .fs-5 {
+    font-weight: bold;
+}
+
+.item-list {
+    max-width: 1000px;
+    margin: 2rem auto;
+}
+.item {
+    margin-bottom: 1rem;
+}
+.item img {
+    height: 200px;
+}
+.item select {
+    font-size: 0.9rem;
+}
+.checkout-container h2 {
+    font-size: 1.4rem;
+    font-weight: bold;
+}
+.checkout-form h3 {
+    font-size: 1.1rem;
+    font-weight: bold;
+}
+.summary {
+    font-size: 0.9rem;
+}
